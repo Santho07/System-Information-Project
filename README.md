@@ -1,5 +1,6 @@
 # SystemInfo :: C++ Win32 Project
 ### This app can show system information like CPU, GPU, HDD , RAM informations developed on C++ and Win32 API.
+[Download Executable Binary: SystemInfo.exe](https://github.com/Santho07/System-Information-Project/blob/master/SystemInfo.exe)
 <p align = "center">
 <img src="https://github.com/Santho07/System-Information-Project/blob/master/System%20Info.jpg" width="496" height="559">
 <p/>
